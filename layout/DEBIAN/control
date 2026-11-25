@@ -1,0 +1,9 @@
+Package: com.local.adbsuite
+Name: ADB Suite
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Full ADB tool suite (wireless debugging pairing, shell, files, apps, screen, logcat) for iOS 6
+Maintainer: local
+Author: local
+Section: Networking
+Depends: 
